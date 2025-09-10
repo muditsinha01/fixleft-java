@@ -184,6 +184,11 @@
             <artifactId>xmlsec</artifactId>
             <version>2.3.4</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-svgbrowser</artifactId>
+            <version>1.14</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
