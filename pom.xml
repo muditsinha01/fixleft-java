@@ -189,6 +189,11 @@
             <artifactId>batik-bridge</artifactId>
             <version>1.17</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-svgrasterizer</artifactId>
+            <version>1.17</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
