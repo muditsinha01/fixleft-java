@@ -184,6 +184,11 @@
             <artifactId>xmlgraphics-commons</artifactId>
             <version>2.6</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-svgrasterizer</artifactId>
+            <version>1.17</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
